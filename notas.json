@@ -1,42 +1,13 @@
-[
-  {
-		"quotePT": "Não sei quantas almas tenho. Cada momento mudei. Continuamente me estranho. Nunca me vi nem achei.",
-    "quoteEN": "I don’t know how many souls I have. I’ve changed at every moment. I always feel like a stranger. I’ve never seen or found myself.",
-    "author": "Fernando Pessoa"
+[{
+		"quoteEN": "The mystery of life is not a problem to solve, but a reality to experience.",
+    "quotePT": "O mistério da vida não é um problema para resolver, mas uma realidade para experimentar.",
+"quoteES": " El misterio de la vida no es un problema a resolver, sino una realidad a experimentar.",
+		"author": "Frank Herbert (Duna)"
 	},
 	{
-		"quotePT": "Os bons vi sempre passar, no mundo graves tormentos, e para mais me espantar os maus vi sempre nadar em mar de contentamentos.",
-    "quoteEN": "Ever in this world saw I, good men suffer grave torments, but even more-enough to terrify, men who live out evil lives, reveling in pleasure and in content.",
-    "author": "Luís de Camões"
-	},
-	{
-		"quoteEN": "If you don't like how the table is set, turn over the table.",
-    "quotePT": "Se não gostas de como a mesa está posta, vira a mesa.",
+		"quoteEN": "Being alone has nothing to do with how many people are around.",
+    "quotePT": "Estar sozinho não tem nada a ver com quantas pessoas estão por perto.",
+"quoteES": " Estar solo no tiene nada que ver con cuantas personas hay alrededor.",
 		"author": "Frank Underwood (House of Cards)"
 	},
-	{
-		"quoteEN": "Continuous effort - not strength or intelligence - is the key to unlocking our potential.",
-    "quotePT": "Esforço contínuo – não força ou inteligência – é a chave para desbloquear o nosso potencial.",
-		"author": "Winston Churchill"
-	},
-	{
-    "quotePT": "Não tenhamos pressa, mas não percamos tempo.",
-    "quoteEN": "Let's not hurry, but let's not waste time either.",
-		"author": "José Saramago"
-	},
-	{
-    "quotePT": "Gostar é provavelmente a melhor maneira de ter, ter deve ser a pior maneira de gostar.",
-    "quoteEN": "Loving is probably the best way to have it, having it must be the worst way to like it.",
-		"author": "José Saramago"
-	},
-	{
-    "quotePT": "A única coisa necessária para o triunfo do mal é que os homens bons não façam nada.",
-    "quoteEN": "The only thing necessary for the triumph of evil is for good men to do nothing.",
-		"author": "Edmund Burke"
-	},
-  {
-    "quotePT": "O sucesso não é final, o fracasso não é fatal: é a coragem para continuar que importa.",
-    "quoteEN": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-    "author": "Winston Churchill"
-  }
 ]
