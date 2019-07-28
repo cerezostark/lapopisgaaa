@@ -1,4 +1,4 @@
-/ TODO: add Akin link http://spacecraft.ssl.umd.edu/akins_laws.html
+// TODO: add Akin link http://spacecraft.ssl.umd.edu/akins_laws.html
 // TODO: add better transitioning
 
 var quotes = [
