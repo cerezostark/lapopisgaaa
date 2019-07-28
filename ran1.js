@@ -180,13 +180,3 @@ window.addEventListener('load', function() {
 theButton.addEventListener('click', function() {
   randomQuote();
 }, false);
-
-
-
-
-// setTimeout(function() {
-//   quoteMachine.style.opacity = 0;
-// }, 3000);
-
-
-
