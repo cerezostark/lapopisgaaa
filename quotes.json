@@ -2,41 +2,49 @@
   {
 		"quotePT": "Não sei quantas almas tenho. Cada momento mudei. Continuamente me estranho. Nunca me vi nem achei.",
     "quoteEN": "I don’t know how many souls I have. I’ve changed at every moment. I always feel like a stranger. I’ve never seen or found myself.",
-    "author": "Fernando Pessoa"
+"quoteES": " No sé cuántas almas tengo. He cambiado en cada momento. Siempre me siento como un extraño. Nunca me he visto o me he encontrado. ",
+"author": "Fernando Pessoa"
 	},
 	{
 		"quotePT": "Os bons vi sempre passar, no mundo graves tormentos, e para mais me espantar os maus vi sempre nadar em mar de contentamentos.",
     "quoteEN": "Ever in this world saw I, good men suffer grave torments, but even more-enough to terrify, men who live out evil lives, reveling in pleasure and in content.",
-    "author": "Luís de Camões"
+"quoteES": " Siempre en este mundo vi a mí, los hombres buenos sufrieron graves tormentos, pero lo suficiente como para aterrorizar a los hombres que viven vidas malas, que se deleitan con placer y contenido. ",    
+"author": "Luís de Camões"
 	},
 	{
 		"quoteEN": "If you don't like how the table is set, turn over the table.",
     "quotePT": "Se não gostas de como a mesa está posta, vira a mesa.",
+"quoteES": " Si no te gusta cómo está puesta la mesa, voltea la mesa. ",
 		"author": "Frank Underwood (House of Cards)"
 	},
 	{
 		"quoteEN": "Continuous effort - not strength or intelligence - is the key to unlocking our potential.",
     "quotePT": "Esforço contínuo – não força ou inteligência – é a chave para desbloquear o nosso potencial.",
+"quoteES": " El esfuerzo continuo, no la fuerza o la inteligencia, es la clave para desbloquear nuestro potencial. ",
 		"author": "Winston Churchill"
 	},
 	{
     "quotePT": "Não tenhamos pressa, mas não percamos tempo.",
     "quoteEN": "Let's not hurry, but let's not waste time either.",
+"quoteES": " No nos apresuremos, pero tampoco perdamos el tiempo. ",
 		"author": "José Saramago"
 	},
 	{
     "quotePT": "Gostar é provavelmente a melhor maneira de ter, ter deve ser a pior maneira de gostar.",
     "quoteEN": "Loving is probably the best way to have it, having it must be the worst way to like it.",
+"quoteES": " Amar es probablemente la mejor manera de tenerlo, tenerlo debe ser la peor manera de gustarle. ",
 		"author": "José Saramago"
 	},
 	{
     "quotePT": "A única coisa necessária para o triunfo do mal é que os homens bons não façam nada.",
     "quoteEN": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+"quoteES": " Lo único necesario para el triunfo del mal es que los hombres buenos no hagan nada. ",
 		"author": "Edmund Burke"
 	},
   {
     "quotePT": "O sucesso não é final, o fracasso não é fatal: é a coragem para continuar que importa.",
     "quoteEN": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+"quoteES": " El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar. ",
     "author": "Winston Churchill"
   }
 ]
