@@ -107,14 +107,9 @@ var quotesxd = [
     "author": "",
     "note": ""
   },
-/*  {
-    "quote": "\"Better\" is the enemy of \"good\".",
-    "author": "David Akin",
-    "note": "Akin's Laws of Spacecraft Design, #14"
-  },*/
   {
     "quote": "Tan grande que es el universo y a tu alma le queda grande.",
     "author": "",
     "note": ""
-  },
+  }
 ]
