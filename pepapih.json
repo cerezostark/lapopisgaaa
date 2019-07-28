@@ -1,7 +1,5 @@
-// TODO: add Akin link http://spacecraft.ssl.umd.edu/akins_laws.html
-// TODO: add better transitioning
 
-var quotes = [
+var quotesxd = [
 
   {
     "quote": "No es difícil encontrar el paraíso en la oscuridad.",
@@ -119,64 +117,4 @@ var quotes = [
     "author": "",
     "note": ""
   },
-
-];
-
-var quoteMachine = document.getElementById('quote-machine');
-var quote = document.getElementById('quote-text');
-var author = document.getElementById('quote-author');
-//var note = document.getElementById('quote-note');
-var theButton = document.getElementById('the-button');
-var twit = document.getElementById('twit');
-var mesen = document.getElementById('mesen');
-var was = document.getElementById('was');
-var tweetLength = 100;
-
-function randomQuote() {
-  // super not working
-  quoteMachine.classList.remove('that-opacity');
-  
-  // get random number for quote object in quotes var
-  var randomNum = Math.floor(Math.random() * quotes.length);
-  
-  // random quote
-  var quoteText = quotes[randomNum]['quote'];
-  
-  // empty variable
-  var trimmedQuote;
-  
-  // measure quote length and trim if necessary
-  if (quoteText.length >= 116) {
-    trimmedQuote = quoteText.substring(0, tweetLength) + '...';
-  } else {
-    trimmedQuote = quoteText;
-  }
-  
-  
-  // build href for tweeting
-  var href1 = 'https://\ttwitter.com/intent/tweet?text=' + '"' + trimmedQuote +  '"';
-	
-  var href3 = 'external://\twhatsapp://send?text=' + '"' + trimmedQuote +  '"';
-	
-  var href2 = 'external://\tfb-messenger://share/?link=' + '"' + trimmedQuote +  '"';
-
-  // output awesome quote elements individually
-  quote.innerHTML = quoteText;
- // author.innerHTML = quotes[randomNum]['author'];
- // note.innerHTML = quotes[randomNum]['note'];
-  twit.href = href1;
-  was.href = href2;
-  mesen.href = href3;
-  
-  // super not working
-  quoteMachine.classList.add('that-opacity');
-};
-// run the machine on load
-window.addEventListener('load', function() {
-  randomQuote();
-}, false);
-
-// run the machine on button click
-theButton.addEventListener('click', function() {
-  randomQuote();
-}, false);
+]
